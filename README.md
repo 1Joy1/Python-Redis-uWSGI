@@ -1,1 +1,2 @@
-# Pyton-Redis-uWSGI
+# Python-Redis-uWSGI
+# self-learning 
